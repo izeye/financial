@@ -7,6 +7,8 @@
   * User’s guide
     * Getting Started
       * https://ta4j.github.io/ta4j-wiki/Getting-started.html
+    * Time Series and Bars
+      * https://ta4j.github.io/ta4j-wiki/Time-series-and-bars.html
   * Contributing
     * How to Contribute
       * https://ta4j.github.io/ta4j-wiki/How-to-contribute
