@@ -7,6 +7,10 @@
 * TradingView
   * https://www.youtube.com/watch?v=D2zAvOQipxU&feature=youtu.be
 
+## TradingView
+* How it works
+  * https://www.tradingview.com/how-it-works/
+
 ## Wikipedia
 * Chart pattern
   * https://en.wikipedia.org/wiki/Chart_pattern
