@@ -10,6 +10,8 @@
 ## TradingView
 * How it works
   * https://www.tradingview.com/how-it-works/
+* Features
+  * https://www.tradingview.com/features/
 
 ## Wikipedia
 * Chart pattern
