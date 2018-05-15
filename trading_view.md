@@ -11,13 +11,20 @@
   * https://www.tradingview.com/wiki/Main_Page
 
 ### Pine Script Tutorial
-* https://www.tradingview.com/wiki/Pine_Script_Tutorial
-
-#### Introduction
-* https://www.tradingview.com/wiki/Introduction
-
-#### Example of an Indicator in Pine
-* https://www.tradingview.com/wiki/Example_of_an_Indicator_in_Pine
+* Home
+  * https://www.tradingview.com/wiki/Pine_Script_Tutorial
+* Introduction
+  * https://www.tradingview.com/wiki/Introduction
+* Example of an Indicator in Pine
+  * https://www.tradingview.com/wiki/Example_of_an_Indicator_in_Pine
+* Structure of the Script
+  * https://www.tradingview.com/wiki/Structure_of_the_Script
+* Comments
+  * https://www.tradingview.com/wiki/Comments
+* Identifiers
+  * https://www.tradingview.com/wiki/Identifiers
+* Type System
+  * https://www.tradingview.com/wiki/Type_System
 
 ## YouTube
 * TradingView
