@@ -25,6 +25,12 @@
   * https://www.tradingview.com/wiki/Identifiers
 * Type System
   * https://www.tradingview.com/wiki/Type_System
+* Literals
+  * https://www.tradingview.com/wiki/Literals
+* Operators
+  * https://www.tradingview.com/wiki/Operators
+* Functions vs Annotation Functions
+  * https://www.tradingview.com/wiki/Functions_vs_Annotation_Functions
 
 ## YouTube
 * TradingView
